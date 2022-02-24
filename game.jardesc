@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Cp1255" standalone="no"?>
+<jardesc>
+    <jar path="Ping-Pong Game/game.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Ping-Pong Game/game.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Ping-Pong Game/src&lt;{PingPongGame.java[PingPongGame" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Ping-Pong Game/src"/>
+        <file path="/Ping-Pong Game/.gitignore"/>
+        <file path="/Ping-Pong Game/.project"/>
+        <file path="/Ping-Pong Game/.classpath"/>
+    </selectedElements>
+</jardesc>
